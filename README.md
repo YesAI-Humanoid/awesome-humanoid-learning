@@ -98,7 +98,7 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 
 ## Papers
 
-### 2025
+### 2025·
 - [2025] TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality [[paper](https://arxiv.org/pdf/2506.15146)] 
 
 - [2025] General Motion Tracking for Humanoid Whole-Body Control [[project](https://gmt-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2506.14770)] [[code](https://github.com/zixuan417/humanoid-general-motion-tracking)]
@@ -419,7 +419,6 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 - [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning)
 - [awesome-humanoid-manipulation](https://github.com/Tsunami-kun/awesome-humanoid-manipulation)
 
-
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jonyzhang2023/awesome-humanoid-learning&type=Date)](https://star-history.com/#jonyzhang2023/awesome-humanoid-learning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=YesAI-Humanoid/awesome-humanoid-learning&type=Date)](https://www.star-history.com/#YesAI-Humanoid/awesome-humanoid-learning&Date)
