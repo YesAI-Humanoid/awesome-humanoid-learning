@@ -40,6 +40,9 @@ In recent research, I have noticed an increasing convergence between humanoid ro
 | H1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description), [USD](https://github.com/unitreerobotics/unitree_model/tree/main/H1/usd) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | G1 | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | H1-2 (preview) | Unitree | [URDF & MJCF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2), [Simplified URDF](https://github.com/unitreerobotics/unitree_rl_gym/tree/main/resources/robots/h1_2) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| GR1 | Fourier | [URDF](https://github.com/FFTAI/Wiki-GRx-Models) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
+| GR2 | Fourier | [URDF](https://github.com/FFTAI/Wiki-GRx-Models) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
+| N1 | Fourier | [URDF](https://github.com/FFTAI/Wiki-GRx-Models/tree/FourierN1), [MJCF](https://github.com/FFTAI/Wiki-GRx-Mujoco/tree/FourierN1/robots/N1/mjcf) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 
 ## News
 
